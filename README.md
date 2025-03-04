@@ -14,3 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Bienvenido al repositorio de Quo Networks.
+
+✨ Sobre Nosotros
+
+Quo Networks es una empresa dedicada a la gestión y operación de EarthNodes en la blockchain. Nos enfocamos en proporcionar infraestructura confiable y eficiente para apoyar redes descentralizadas y contribuir a la expansión del ecosistema Web3.
+
+🛠️ Nuestros Servicios
+
+Implementación y mantenimiento de EarthNodes.
+
+Optimización de rendimiento y seguridad.
+
+Monitorización y soporte 24/7.
+
+Participación en la gobernanza de redes blockchain.
+
+🌐 Nuestra Misión
+
+Nuestra misión es facilitar la descentralización y garantizar la estabilidad de la infraestructura blockchain mediante la gestión eficiente de nodos en redes de próxima generación.
+
+🔗 Conéctate con Nosotros
+
+Sitio Web (próximamente)
+
+Twitter (próximamente)
+
+LinkedIn (próximamente)
+
+Si estás interesado en colaborar o tienes preguntas, no dudes en abrir un issue o contactarnos. ¡Bienvenido a Quo Networks!
+
