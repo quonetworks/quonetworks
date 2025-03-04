@@ -1,4 +1,4 @@
-## Hi there 👋
+# Quo Networks 
 
 <!--
 **quonetworks/quonetworks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Quo Networks
+## Hi there 👋
 
 Welcome to the **Quo Networks** repository.
 
