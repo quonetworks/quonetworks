@@ -31,8 +31,8 @@ Quo Networks is a company dedicated to the management and operation of **EarthNo
 Our mission is to facilitate decentralization and ensure the stability of blockchain infrastructure by efficiently managing nodes in next-generation networks.
 
 ## 🔗 Connect with Us
-- [Website](#) *(coming soon)*
-- [Twitter](#) *(coming soon)*
+- [Website](https://quo.earth)
+- [Twitter](https://x.com/QuoEarth/)
 
 If you are interested in collaborating or have any questions, feel free to open an issue or contact us. Welcome to Quo Networks!
 
