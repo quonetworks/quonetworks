@@ -5,6 +5,7 @@ Welcome to the **Quo Networks** repository.
 
 ## ✨ About Us
 Quo Networks is a company dedicated to the management and operation of **EarthNodes** on the blockchain. We focus on providing reliable and efficient infrastructure to support decentralized networks and contribute to the expansion of the Web3 ecosystem.
+Quo Networks is an **Official WorldMobile EarthNode.**
 
 ## 🔧 Our Services
 - Deployment and maintenance of EarthNodes.
